@@ -1,5 +1,5 @@
 
-var bamazon = require("./bamazon.js");
+var bamazon = require("./bamazonCustomer.js");
 
 //constructor for basic flash card question
 function Item(item_id, product_name, department_name, price, quantity) {
