@@ -11,14 +11,14 @@ Project demonstrates ability to add, alter and delete from a SQL database with J
 
 ### Walkthrough Video
 
-![Walkthrough Video](video/walkthrough.mp4)
+![Click here for Walkthrough](video/walkthrough.mp4)
 
 
 ### Screenshots
-![](screenshot1.JPG)
-![](screenshot2.JPG)
-![](screenshot3.JPG)
-![](screenshot4.JPG)
 
 
+![](images/screenshot1.JPG)
+![](images/screenshot2.JPG)
+![](images/screenshot3.JPG)
+![](images/screenshot4.JPG)
 
